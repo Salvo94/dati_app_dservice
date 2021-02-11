@@ -1,0 +1,38 @@
+[
+  {
+    "categoria" : "Operatori sanitari e sociosanitari",
+    "consentito" : "si"
+  },
+  {
+    "categoria" : "Residenti e personale delle RSA",
+    "consentito" : "si"
+  },
+  {
+    "categoria" : "Over 80",
+    "consentito" : "si"
+  },
+  {
+    "categoria" : "Soggetti estremamente vulnerabili",
+    "consentito" : "no"
+  },
+  {
+    "categoria" : "Over 75",
+    "consentito" : "no"
+  },
+  {
+    "categoria" : "Over 70",
+    "consentito" : "no"
+  },
+  {
+    "categoria" : "16-69enni con rischi clinici",
+    "consentito" : "no"
+  },
+  {
+    "categoria" : "55-69enni senza rischi clinici",
+    "consentito" : "no"
+  },
+  {
+    "categoria" : "18-54 enni senza rischi clinici",
+    "consentito" : "no"
+  }
+]
